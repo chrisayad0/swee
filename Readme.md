@@ -17,3 +17,12 @@ https://www.mouser.com/ProductDetail/Qualtek/738W-X2-03?qs=sGAEpiMZZMvh4ezHM5rsU
 
 2.APPLIANCE INLET 10A 70C 
 https://www.mouser.com/ProductDetail/Schurter/6162.0033?qs=qjwtO0ZHsJCIdqWdcJ8xAw%3D%3D
+
+
+Plastic Parts
+![top half](https://github.com/chrisayad0/swee/blob/main/sweeplastic.png)
+1.Top half
+https://github.com/chrisayad0/swee/blob/main/SweScrew-STop-9.stl
+
+2. Bottom half
+https://github.com/chrisayad0/swee/blob/main/SweScrew-L-Bottom-9.stl
